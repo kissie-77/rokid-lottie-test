@@ -1,0 +1,9 @@
+{
+  "pages": [
+    "pages/index/index"
+  ],
+  "window": {
+    "navigationBarTitleText": "Lottie 验证 · V6",
+    "navigationStyle": "custom"
+  }
+}
